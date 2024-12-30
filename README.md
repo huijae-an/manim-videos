@@ -1,4 +1,4 @@
-# manim-videos
+# Manim-Videos
 
 Creating educational videos on core concepts in Computer Science and Data Science using [Manim](https://www.manim.community/).
 
