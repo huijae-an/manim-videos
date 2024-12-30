@@ -4,5 +4,5 @@ Creating educational videos on core concepts in Computer Science and Data Scienc
 
 **Topics covered so far:**
 
-* Data 
-* Something
+* Principal Component Analysis
+* Data Clustering
